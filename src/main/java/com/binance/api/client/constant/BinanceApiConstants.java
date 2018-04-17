@@ -10,7 +10,8 @@ public class BinanceApiConstants {
   /**
    * REST API base URL.
    */
-  public static final String API_BASE_URL = "https://api.binance.com";
+  //public static final String API_BASE_URL = "https://api.binance.com";
+  public static final String API_BASE_URL = "http://127.0.0.1:8080";
 
   /**
    * Streaming API base URL.
